@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Development<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on Application Development<br><br>👨‍💻 All of my projects are available at https://github.com/bhargav0147?tab=repositories<br><br>📝 I regularly write articles on https://github.com/bhargav0147?tab=repositories<br><br>💬 Ask me about C / C++ / Dart / Flutter / Git<br><br>📫 How to reach me bhargavpatel6832@gmail.com<br><br>⚡ Fun fact I am funny
+🔭 I’m currently working on Flutter Development<br><br>👯 I’m looking to collaborate on Application Development<br><br>👨‍💻 All of my projects are available at https://github.com/bhargav0147?tab=repositories<br><br>📝 I regularly write articles on https://github.com/bhargav0147?tab=repositories<br><br>💬 Ask me about C / C++ / Dart / Flutter / Git<br><br>📫 How to reach me bhargavpatel6832@gmail.com<br><br>⚡ Fun fact I am funny
 
 
 ## 🌐 Socials:
